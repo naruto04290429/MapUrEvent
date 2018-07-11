@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Event>
+    <content> test2</content>
+    <end>
+        <date>2018-05-17</date>
+        <time>03:03</time>
+    </end>
+    <place>
+        <latitude>38.882162025405094</latitude>
+        <longitude>-77.27845971679687</longitude>
+    </place>
+    <start>
+        <date>2018-05-10</date>
+        <time>03:02</time>
+    </start>
+</Event>
